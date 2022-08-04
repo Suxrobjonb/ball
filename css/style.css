@@ -1,0 +1,37 @@
+body {
+   background-color: darkkhaki;
+}
+
+.dtm__box {
+   padding: 20px;
+   text-align: center;
+   background-color: #fff;
+}
+
+.site__form {
+   margin-top: 5px;
+   margin-bottom: 10px;
+}
+
+.site__input {
+   padding: 4px;
+   background-color: brown;
+   border: brown;
+   color: #fff;
+}
+
+.site__selec-university {
+   padding: 4px;
+   background-color: brown;
+   border: brown;
+   color: #fff;      
+}
+
+.site__send {
+   padding: 5px;
+   background-color: coral;
+   border: coral;
+   color: #fff;
+   cursor: pointer;
+}
+
